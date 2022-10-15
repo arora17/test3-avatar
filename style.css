@@ -1,0 +1,89 @@
+body {
+  background-image: url(image/all4.jpg);
+  background-size: cover;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body p {
+  font-size: 150%;
+  text-align: justify;
+}
+
+.all {
+  width: 90%;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 7px;
+}
+
+header {
+  height: 400px;
+  background-image: url(image/for_header.png);
+  background-size: cover;
+  border-radius: 10px 10px 0px 0px;
+
+  border: solid top 10px;
+}
+
+nav {
+  text-align: center;
+  background-color: blue;
+  padding: 15px;
+  font-size: 20px;
+  font-weight: bold;
+}
+nav a {
+  text-decoration: none;
+  color: white;
+}
+
+footer {
+  text-align: center;
+  background-color: navy;
+  color: white;
+  border-radius: 0 0 10px 10px;
+  font-weight: bold;
+  padding: 15px 0px;
+  font-weight: bold;
+}
+
+.center img {
+  text-align: center;
+  width: 98%;
+}
+
+h1 {
+  font-size: 40px;
+  color: blue;
+  text-align: center;
+}
+
+.left {
+  float: left;
+  margin: 10px;
+}
+.clear {
+  clear: both;
+}
+
+h2 {
+  text-align: center;
+  color: blue;
+  font-size: 25;
+}
+.pop1 img {
+  text-align: center;
+  width: 90%;
+  padding-left: 60px;
+  margin-top: 150px;
+}
+
+video {
+  text-align: center;
+  width: 70%;
+  margin: 180px;
+}
+a:hover {
+  color: red;
+  background-color: aquamarine;
+}

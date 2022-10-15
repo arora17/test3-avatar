@@ -1,0 +1,48 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cat-photo img {
+  border-radius: 50%;
+  height: 300px;
+  text-align: center;
+  display: block;
+  margin: auto;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
+}
+.p1 {
+  text-align: center;
+  color: gray;
+}
+
+.name {
+  background-color: rgba(69, 255, 255, 0.6);
+  padding: 0 0 10px 0;
+  border-radius: 30px;
+  margin: 0 30%;
+}
+
+.name h2 {
+  text-align: center;
+}
+
+.name p {
+  height: 10px;
+  padding-left: 5%;
+}
+
+.hobby {
+  background-color: rgba(188, 178, 253, 0.8);
+  padding: 0 0 10px 0;
+  border-radius: 30px;
+  margin: 0 30%;
+}
+.hobby h2 {
+  text-align: center;
+}
+
+.hobby p {
+  height: 10px;
+  padding-left: 5%;
+  color: gray;
+}
